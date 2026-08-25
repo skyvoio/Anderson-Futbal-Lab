@@ -1,0 +1,41 @@
+Project Brief: Custom Website Development for Anderson Futbol Lab
+
+Overview:
+We are developing a new high-performance, responsive website for "Anderson Futbol Lab", a premier soccer development program based in Mississauga, Ontario. The site will be built and hosted on Replit using modern web standards (e.g., React, Next.js, HTML/CSS, Tailwind CSS).
+
+Design Benchmark & Vibe:
+* Layout & Structure Model: https://www.superiorstriker.com/
+  - We want to replicate the high-energy, sleek, and high-converting flow of Superior Striker (hero video/image sections, bold typography, elite athletic branding, clear registration funnels).
+* Existing Brand Reference: https://www.andersonfutbollab.com/
+
+Brand Identity & Color Palette (Extracted from Logo):
+Maintain strictly the existing brand color palette derived from the official logo crest:
+* Primary Navy Blue: Core headers, deep section backgrounds, primary text accent.
+* Athletic Gold: CTA buttons, crowns/highlights, secondary badges, active states.
+* Crimson Red: Accent lines, borders, alert badges, micro-interactions.
+* Clean White / Light Gray: Background contrast and primary readability text.
+
+Core Objectives & Registration Funnel:
+The primary focus of the site is lead generation and user intake. We need intuitive forms and clear calls-to-action (CTAs) allowing users to register or inquire about:
+1. Trial Dates
+2. Junior Elite Program
+3. General Enquiries / Other Programs
+
+Key Pages & Features:
+1. Home Page: Dynamic hero section, program teaser cards, high-impact imagery, testimonials/social proof, and persistent CTA buttons.
+2. About Us: Philosophy, elite coaching staff, and club mission statement.
+3. Programs: Detailed breakdown of offerings, with heavy emphasis on the "Junior Elite Program".
+4. Trial Registration: Dedicated intake form with dropdowns asking users what program/dates they are registering for.
+5. Contact Page & Footer: Direct access to contact details and embedded Instagram feed/links.
+
+Contact Details for Integration:
+* Email: AndersonFutbolLab@gmail.com | andersonfloffice@gmail.com
+* Phone: (437) 776-5626
+* Location: Mississauga, Ontario, Canada
+* Instagram: @andersonfutbollab
+
+Technical Requirements (Replit Build):
+* Mobile-First Responsive Design (Optimized for Instagram ad/bio link traffic).
+* Clean, modular codebase suitable for Replit deployment.
+* Lightweight assets to ensure maximum page speed and fast loading times.
+* Integrated form handling (e.g., Web3Forms, Formspree, or backend endpoint) to send lead notifications directly to our email addresses.
